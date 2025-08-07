@@ -1,8 +1,8 @@
 
-<img width="1366" height="768" alt="Screenshot (614)" src="https://github.com/user-attachments/assets/e41b2dcb-6812-4da0-936b-a406b64fa9e5" />
-<img width="1366" height="768" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/43e6bdbb-eea2-4311-b921-8f62e711e60f" />
-<img width="1366" height="768" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/657f17ef-340c-400f-8f75-92f371d17f1a" />
-<img width="1366" height="768" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/09190936-2e4d-4dc6-a741-a21a13ff1f92" />
+<img width="1345" height="601" alt="Screenshot (614)" src="https://github.com/user-attachments/assets/76566f12-ae2d-4be1-88d9-6a614a7f2828" />
+<img width="1335" height="607" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/c044ef76-89a6-472e-b32c-b1cad68be0e7" />
+<img width="1345" height="593" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/4cf2abc7-1ef1-4971-b924-ad00bd368768" />
+<img width="1361" height="611" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/d770f76a-ae9f-4df3-abf6-8ac8d2ab7072" />
 
 # Getting Started with Create React App
 
